@@ -2,7 +2,7 @@
 
 You will have to use a USB wire with your controller in Safe Mode (even if it is a wireless controller). Some non-Sony controllers will not work while in safe mode.
 
-##To enter Safe Mode:
+## To enter Safe Mode:
 
 1. Begin with the PS3 turned off. The power light should be red.
 2. Press and hold the power button untill the PS3 beeps three times and shuts down again. The power light should be red again.
