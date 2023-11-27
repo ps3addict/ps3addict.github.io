@@ -4,9 +4,9 @@ You will have to use a USB wire with your controller in Safe Mode (even if it is
 
 ##To enter Safe Mode:
 
-<CENTER>1. Begin with the PS3 turned off. The power light should be red.
-1. Press and hold the power button untill the PS3 beeps three times and shuts down again. The power light should be red again.
-1. Press and hold the power button again. You will hear a beep, then another beep, then a double beep. Let go of the power button after the double beep.</CENTER>
+1. Begin with the PS3 turned off. The power light should be red.
+2. Press and hold the power button untill the PS3 beeps three times and shuts down again. The power light should be red again.
+3. Press and hold the power button again. You will hear a beep, then another beep, then a double beep. Let go of the power button after the double beep.
 
 (If your PS3 can not beep due to broken speaker, the power light also flashs when the PS3 beeps.)
 
