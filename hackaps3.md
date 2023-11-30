@@ -1,10 +1,10 @@
 ﻿# Hacking A PS3 by Coro​
 
-> [!WARNING] USING THIS GUIDE, AND THE SOFTWARE IT COVERS, IS DONE AT YOUR OWN RISK!  As always, do not hack anything that you are not willing to risk breaking beyond repair...​
+<font color="red">USING THIS GUIDE, AND THE SOFTWARE IT COVERS, IS DONE AT YOUR OWN RISK!  As always, do not hack anything that you are not willing to risk breaking beyond repair...​</font>
 
 ## Current Hacks
 
-Can my Playstation 3 be hacked?
+### Can my Playstation 3 be hacked?
 
 All Playstation 3 models can be hacked.
 
