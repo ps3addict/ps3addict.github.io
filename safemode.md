@@ -14,7 +14,7 @@ You will have to use a USB wire with your controller in Safe Mode (even if it is
 
 1. Restart System -- This will exit Safe Mode and boot the PS3 normally.
 
-2. Resore Default Settings -- <font color="red">​This will DELETE all PSN data!</font> It will also reset all Syetm Settings to default values.
+2. Resore Default Settings -- <font color="red">​This will DELETE all PSN data!</font> It will also reset all System Settings to default values.
 
 3. Resore File System -- This will attempt to fix file problems. It may take a while to complete.
 
