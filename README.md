@@ -9,7 +9,7 @@ Visit [PSX-Place forums](https://www.psx-place.com/forums) for help and news.
 
 Currently installing HEN 3.2.2 on HFW 4.90
 
-# PS3HEN [Alternate](https://ps3addict.github.io/alternatr) Installer
+# PS3HEN [Alternate](https://ps3addict.github.io/alternate) Installer
 
 Currently installing HEN 3.2.2 on OFW 4.80 to 4.82 and HFW 4.83 to 4.90
 
