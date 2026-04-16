@@ -15,7 +15,7 @@ Currently installing HEN 3.5.0 on OFW 4.80 to 4.82
     and HFW 4.83 to 4.93
 
 # Unofficial [Flash Writer](https://ps3addict.github.io/writer/) for HFW
-  *** 4.90 only for now ***
+  Now supporting HFW 4.90, 4.91, & 4.93
 
 Emergency alternative to BGToolset
 
