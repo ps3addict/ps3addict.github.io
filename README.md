@@ -19,7 +19,7 @@ Currently installing HEN 3.5.0 on OFW 4.80 to 4.82
 
 # My [PS3 Guides](https://ps3addict.github.io/guides.html) At Psx-Place Forum
 
-# Various [HEN Enablers](https://ps3addict.github.io/enablehen) (4.80 to 4.92)
+# Various [HEN Enablers](https://ps3addict.github.io/enablehen) (4.80 to 4.93)
 
 # HFW pup file download links [here](https://ps3addict.github.io/firmware)
 
