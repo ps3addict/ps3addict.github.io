@@ -4,9 +4,7 @@ Visit [ps3toolset.com](https://www.ps3toolset.com) for official BGToolset.
 
 Visit [PSX-Place forums](https://www.psx-place.com/forums) for help and news.
 
-# Easiest HEN install method for HFW 4.93 and below!
-
-    Click [HERE](https://ps3addict.github.io/easyhen) on PC or phone to download files
+# Easiest HEN install click [HERE](http://ps3addict.github.io/easyhen)
 
 # lmn7's [Auto HEN](https://ps3addict.github.io/autohen) Installer
 
@@ -19,6 +17,7 @@ Currently installing HEN 3.5.0 on OFW 4.80 to 4.82
     and HFW 4.83 to 4.93
 
 # Unofficial [Flash Writer](https://ps3addict.github.io/writer/) for HFW
+
    Emergency alternative to BGToolset supporting HFW 4.90, 4.91, & 4.93
 
 # My [PS3 Guides](https://ps3addict.github.io/guides.html) At Psx-Place Forum
