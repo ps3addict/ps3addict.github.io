@@ -4,7 +4,7 @@ Visit [ps3toolset.com](https://www.ps3toolset.com) for official BGToolset.
 
 Visit [PSX-Place forums](https://www.psx-place.com/forums) for help and news.
 
-# Easiest HEN install click [HERE](http://ps3addict.github.io/easyhen)
+# [Easiest HEN Install Method](http://ps3addict.github.io/easyhen) 2026
 
 # lmn7's [Auto HEN](https://ps3addict.github.io/autohen) Installer
 
