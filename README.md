@@ -6,6 +6,8 @@ Visit [PSX-Place forums](https://www.psx-place.com/forums) for help and news.
 
 # Easiest HEN install method for HFW 4.93 and below!
 
+    Click [HERE](https://ps3addict.github.io/easyhen) on PC or phone to download files
+
 # lmn7's [Auto HEN](https://ps3addict.github.io/autohen) Installer
 
 Currently installing HEN 3.4.0 on HFW 4.92
